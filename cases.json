@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Tenant Eviction Case",
+    "text": "A tenant refused to vacate property after lease expiry.",
+    "court": "High Court",
+    "year": 2020
+  },
+  {
+    "id": 2,
+    "title": "Contract Breach Case",
+    "text": "One party failed to honor contract terms.",
+    "court": "Supreme Court",
+    "year": 2018
+  },
+  {
+    "id": 3,
+    "title": "Property Dispute Case",
+    "text": "Dispute over ownership of ancestral property.",
+    "court": "District Court",
+    "year": 2019
+  }
+]
